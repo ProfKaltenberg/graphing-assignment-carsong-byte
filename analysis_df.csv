@@ -1,0 +1,791 @@
+restaurant_name,michelin_distinction,rating,review_count,price_level,type,michelin
+Icca,One Star,4.5,136.0,,japanese_restaurant,1
+Ito,Selected Restaurants,4.5,92.0,,restaurant,1
+Atera,Two Stars,4.6,613.0,PRICE_LEVEL_VERY_EXPENSIVE,american_restaurant,1
+Farra,Selected Restaurants,4.6,190.0,,restaurant,1
+Huso,One Star,4.7,296.0,,fine_dining_restaurant,1
+Manhatta,Selected Restaurants,4.7,3790.0,PRICE_LEVEL_VERY_EXPENSIVE,american_restaurant,1
+Jungsik New York,Three Stars,4.6,976.0,PRICE_LEVEL_VERY_EXPENSIVE,korean_restaurant,1
+Tamarind,Selected Restaurants,4.2,2968.0,PRICE_LEVEL_EXPENSIVE,indian_restaurant,1
+One White Street,Selected Restaurants,4.4,389.0,,restaurant,1
+Crown Shy,One Star,4.5,1817.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,1
+Maison Passerelle,Selected Restaurants,4.5,149.0,,restaurant,1
+Eulalie,Selected Restaurants,4.9,110.0,,french_restaurant,1
+Cha Kee,Selected Restaurants,3.9,1156.0,PRICE_LEVEL_INEXPENSIVE,cantonese_restaurant,1
+Saga,Two Stars,4.4,503.0,PRICE_LEVEL_VERY_EXPENSIVE,fine_dining_restaurant,1
+Lei,Selected Restaurants,4.7,122.0,,wine_bar,1
+Bridges,One Star,4.5,199.0,,french_restaurant,1
+Dim Sum Go Go,bib,4.1,1708.0,PRICE_LEVEL_MODERATE,dim_sum_restaurant,1
+Carne Mare,Selected Restaurants,4.5,869.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+Yamada,One Star,4.9,51.0,,japanese_restaurant,1
+La Mercerie,Selected Restaurants,4.3,1742.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+Le Coucou,One Star,4.5,2081.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Muku,One Star,4.8,22.0,,japanese_restaurant,1
+L’abeille à Côté,Selected Restaurants,4.4,38.0,,restaurant,1
+L’Abeille,One Star,4.5,302.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+Nyonya,bib,4.3,2153.0,PRICE_LEVEL_MODERATE,malaysian_restaurant,1
+Corima,One Star,4.4,280.0,,fine_dining_restaurant,1
+Shabushabu Mayumon,Selected Restaurants,4.7,155.0,,japanese_restaurant,1
+Thai Diner,bib,4.4,2784.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Cervo’s,bib,4.5,598.0,PRICE_LEVEL_EXPENSIVE,seafood_restaurant,1
+Wayan,Selected Restaurants,4.3,1381.0,PRICE_LEVEL_EXPENSIVE,indonesian_restaurant,1
+Potluck Club,bib,4.6,827.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Altro Paradiso,Selected Restaurants,4.4,900.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+Ma•dé,Selected Restaurants,4.3,194.0,,indonesian_restaurant,1
+Comal,Selected Restaurants,4.4,189.0,,mexican_restaurant,1
+Tolo,bib,4.2,193.0,,chinese_restaurant,1
+Dirt Candy,One Star,4.5,1525.0,PRICE_LEVEL_MODERATE,vegetarian_restaurant,1
+The River Café,Selected Restaurants,4.4,2502.0,PRICE_LEVEL_VERY_EXPENSIVE,american_restaurant,1
+Raoul's,Selected Restaurants,4.4,1351.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,1
+Pinch Chinese,bib,4.3,944.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+César,Two Stars,4.2,221.0,,fine_dining_restaurant,1
+Sushi Ikumi,Selected Restaurants,4.6,104.0,,sushi_restaurant,1
+Torrisi,One Star,4.5,896.0,,italian_restaurant,1
+Forsythia,Selected Restaurants,4.4,422.0,,italian_restaurant,1
+Russ & Daughters Cafe,bib,4.6,3585.0,PRICE_LEVEL_MODERATE,american_restaurant,1
+The Musket Room,Selected Restaurants,4.5,914.0,PRICE_LEVEL_VERY_EXPENSIVE,american_restaurant,1
+King,Selected Restaurants,4.3,563.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Estela,One Star,4.4,1530.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+New,Selected Restaurants,4.0,103.0,,asian_restaurant,1
+New,Selected Restaurants,4.8,18.0,,seafood_restaurant,1
+New,Selected Restaurants,4.9,28.0,,restaurant,1
+New,Selected Restaurants,4.8,28.0,,home_goods_store,1
+New,Selected Restaurants,4.0,103.0,,asian_restaurant,1
+New,Selected Restaurants,4.8,18.0,,seafood_restaurant,1
+New,Selected Restaurants,4.9,28.0,,restaurant,1
+New,Selected Restaurants,4.8,28.0,,home_goods_store,1
+New,Selected Restaurants,4.0,103.0,,asian_restaurant,1
+New,Selected Restaurants,4.8,18.0,,seafood_restaurant,1
+New,Selected Restaurants,4.9,28.0,,restaurant,1
+New,Selected Restaurants,4.8,28.0,,home_goods_store,1
+New,Selected Restaurants,4.0,103.0,,asian_restaurant,1
+New,Selected Restaurants,4.8,18.0,,seafood_restaurant,1
+New,Selected Restaurants,4.9,28.0,,restaurant,1
+New,Selected Restaurants,4.8,28.0,,home_goods_store,1
+Ballato,Michelin Star,4.1,1645.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Dhamaka,bib,4.5,3619.0,PRICE_LEVEL_EXPENSIVE,indian_restaurant,1
+Raf's,Selected Restaurants,4.1,233.0,,restaurant,1
+Torien,One Star,4.6,266.0,PRICE_LEVEL_MODERATE,japanese_restaurant,1
+Carbone,Selected Restaurants,4.3,2594.0,PRICE_LEVEL_VERY_EXPENSIVE,italian_restaurant,1
+Lord's,Selected Restaurants,4.5,433.0,,british_restaurant,1
+8282,bib,4.7,632.0,,korean_restaurant,1
+Laliko,bib,4.8,502.0,PRICE_LEVEL_MODERATE,eastern_european_restaurant,1
+Ernesto's,Selected Restaurants,4.3,643.0,,basque_restaurant,1
+Dame,Selected Restaurants,4.6,391.0,,seafood_restaurant,1
+C as in Charlie,bib,4.8,874.0,PRICE_LEVEL_MODERATE,korean_restaurant,1
+Inga's Bar,Selected Restaurants,4.5,258.0,PRICE_LEVEL_MODERATE,restaurant,1
+Una Pizza Napoletana,bib,4.3,892.0,PRICE_LEVEL_MODERATE,pizza_restaurant,1
+Kabawa,Selected Restaurants,4.6,124.0,,caribbean_restaurant,1
+Crevette,Selected Restaurants,4.3,185.0,,seafood_restaurant,1
+Sami & Susu,bib,4.6,305.0,PRICE_LEVEL_INEXPENSIVE,mediterranean_restaurant,1
+MayRee,Selected Restaurants,4.7,434.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Atla,bib,4.2,1225.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Nami Nori,bib,4.4,1795.0,,sushi_restaurant,1
+Yoshino,One Star,4.5,166.0,,sushi_restaurant,1
+Minetta Tavern,Selected Restaurants,4.5,2792.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,1
+Katz's,bib,4.5,52098.0,PRICE_LEVEL_MODERATE,deli,1
+Bungalow,bib,4.4,2339.0,,indian_restaurant,1
+The Commerce Inn,Selected Restaurants,4.4,452.0,,american_restaurant,1
+Sushi Nakazawa New York,One Star,4.5,1934.0,PRICE_LEVEL_VERY_EXPENSIVE,sushi_restaurant,1
+Ivan Ramen,Selected Restaurants,4.7,9196.0,PRICE_LEVEL_MODERATE,ramen_restaurant,1
+Le Gigot,Selected Restaurants,4.6,301.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,1
+Little Myanmar,bib,4.1,311.0,PRICE_LEVEL_MODERATE,burmese_restaurant,1
+Family Meal at Blue Hill,One Star,4.7,1339.0,PRICE_LEVEL_VERY_EXPENSIVE,american_restaurant,1
+Jeju Noodle Bar,One Star,4.6,3260.0,PRICE_LEVEL_MODERATE,korean_restaurant,1
+I Sodi,Selected Restaurants,4.2,1031.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Red Paper Clip,Selected Restaurants,4.3,277.0,,american_restaurant,1
+Via Carota,Selected Restaurants,4.4,3233.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Secchu Yokota,Selected Restaurants,4.9,312.0,,japanese_restaurant,1
+Loring Place,Selected Restaurants,4.6,1165.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,1
+Frevo,One Star,4.8,823.0,PRICE_LEVEL_VERY_EXPENSIVE,fine_dining_restaurant,1
+Adda,Selected Restaurants,4.6,800.0,,indian_restaurant,1
+Shmoné,One Star,4.2,555.0,,israeli_restaurant,1
+CheLi,bib,4.5,1465.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Ariari,Selected Restaurants,4.6,541.0,PRICE_LEVEL_MODERATE,korean_restaurant,1
+Soda Club,bib,4.6,496.0,,restaurant,1
+Tuome,One Star,4.5,774.0,PRICE_LEVEL_MODERATE,fine_dining_restaurant,1
+MáLà Project,bib,4.4,1419.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Nudibranch,Selected Restaurants,4.7,466.0,,korean_restaurant,1
+Moody Tongue Sushi,Selected Restaurants,4.3,220.0,,sushi_restaurant,1
+Pylos,Selected Restaurants,4.6,836.0,PRICE_LEVEL_EXPENSIVE,greek_restaurant,1
+Ruffian,bib,4.7,423.0,PRICE_LEVEL_MODERATE,wine_bar,1
+Noreetuh,bib,4.6,784.0,PRICE_LEVEL_EXPENSIVE,hawaiian_restaurant,1
+Avant Garden,Selected Restaurants,4.6,895.0,PRICE_LEVEL_EXPENSIVE,vegan_restaurant,1
+Sobaya,bib,4.3,1192.0,PRICE_LEVEL_MODERATE,japanese_restaurant,1
+Miss Lily’s,Selected Restaurants,4.3,1639.0,PRICE_LEVEL_MODERATE,restaurant,1
+Claud,Selected Restaurants,4.2,386.0,,restaurant,1
+Penny,Selected Restaurants,4.6,240.0,,seafood_restaurant,1
+Superiority Burger,bib,4.3,1844.0,PRICE_LEVEL_INEXPENSIVE,vegetarian_restaurant,1
+The Office of Mr. Moto,Selected Restaurants,4.5,189.0,PRICE_LEVEL_VERY_EXPENSIVE,japanese_restaurant,1
+4 Charles Prime Rib,Selected Restaurants,4.7,1146.0,PRICE_LEVEL_EXPENSIVE,steak_house,1
+Smithereens,Selected Restaurants,4.5,153.0,,seafood_restaurant,1
+Bar Miller,One Star,4.9,57.0,,japanese_restaurant,1
+Tsukimi,One Star,4.6,136.0,,japanese_restaurant,1
+Pranakhon,bib,4.8,3158.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Rosella,Selected Restaurants,4.7,397.0,,sushi_restaurant,1
+Kubeh,Selected Restaurants,4.3,955.0,PRICE_LEVEL_MODERATE,middle_eastern_restaurant,1
+Semma,One Star,4.2,1555.0,PRICE_LEVEL_MODERATE,south_indian_restaurant,1
+HAGS,Selected Restaurants,4.8,135.0,,fine_dining_restaurant,1
+Kanoyama,Selected Restaurants,4.3,654.0,PRICE_LEVEL_MODERATE,japanese_restaurant,1
+Momofuku Noodle Bar,bib,4.5,5311.0,PRICE_LEVEL_MODERATE,ramen_restaurant,1
+Al Badawi,Selected Restaurants,4.7,2232.0,PRICE_LEVEL_MODERATE,middle_eastern_restaurant,1
+Bánh Anh Em,bib,4.4,385.0,,vietnamese_restaurant,1
+Yellow Rose,bib,4.3,558.0,PRICE_LEVEL_MODERATE,tex_mex_restaurant,1
+Bartolo,Selected Restaurants,4.3,103.0,,spanish_restaurant,1
+Odre,bib,4.5,182.0,,korean_restaurant,1
+Soothr,Selected Restaurants,4.7,5846.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Le B,Selected Restaurants,3.3,206.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Don Angie,Selected Restaurants,4.6,1743.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Kosaka,One Star,4.5,303.0,PRICE_LEVEL_VERY_EXPENSIVE,sushi_restaurant,1
+Ishq,bib,4.6,495.0,,indian_restaurant,1
+Bangkok Supper Club,Selected Restaurants,4.5,697.0,,thai_restaurant,1
+Gage & Tollner,Selected Restaurants,4.3,1320.0,,american_restaurant,1
+The Dining Room at The Guesthouse,Selected Restaurants,4.3,176.0,,restaurant,1
+Saint Julivert Fisherie,Selected Restaurants,4.7,353.0,,seafood_restaurant,1
+La Vara,Selected Restaurants,4.6,896.0,PRICE_LEVEL_EXPENSIVE,spanish_restaurant,1
+Kanyakumari,Selected Restaurants,4.4,812.0,,south_indian_restaurant,1
+Casa Mono,One Star,4.3,1896.0,PRICE_LEVEL_EXPENSIVE,spanish_restaurant,1
+La Dong,bib,4.8,3339.0,PRICE_LEVEL_MODERATE,vietnamese_restaurant,1
+Kyma,Selected Restaurants,4.4,1125.0,PRICE_LEVEL_EXPENSIVE,greek_restaurant,1
+Sal Tang's,bib,4.3,112.0,,chinese_restaurant,1
+Portale,Selected Restaurants,4.8,760.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Genesis House Restaurant,Selected Restaurants,4.5,635.0,,korean_restaurant,1
+abcV,Selected Restaurants,4.4,1736.0,PRICE_LEVEL_EXPENSIVE,vegetarian_restaurant,1
+Oceans,Selected Restaurants,4.7,815.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Carlotto,Selected Restaurants,4.6,237.0,,restaurant,1
+Oiji Mi,One Star,4.6,1234.0,,korean_restaurant,1
+bōm,One Star,4.8,151.0,,korean_restaurant,1
+Gramercy Tavern,One Star,4.6,4839.0,PRICE_LEVEL_VERY_EXPENSIVE,american_restaurant,1
+Rezdôra,One Star,4.2,1655.0,,italian_restaurant,1
+Noda,One Star,4.7,168.0,PRICE_LEVEL_VERY_EXPENSIVE,sushi_restaurant,1
+odo,Two Stars,4.5,299.0,PRICE_LEVEL_VERY_EXPENSIVE,japanese_restaurant,1
+Massara,Selected Restaurants,4.1,300.0,,italian_restaurant,1
+Mile End,Selected Restaurants,4.4,1414.0,PRICE_LEVEL_MODERATE,sandwich_shop,1
+Cosme,Selected Restaurants,4.3,3100.0,PRICE_LEVEL_VERY_EXPENSIVE,mexican_restaurant,1
+La Devozione: The Oval,Selected Restaurants,4.0,748.0,,italian_restaurant,1
+Untable,bib,4.8,200.0,,thai_restaurant,1
+Gus's Chop House,Selected Restaurants,4.5,152.0,PRICE_LEVEL_MODERATE,restaurant,1
+Crane Club,Selected Restaurants,4.4,257.0,,steak_house,1
+Noz 17,One Star,4.4,113.0,,sushi_restaurant,1
+Novitá,Selected Restaurants,4.5,619.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+Coqodaq,bib,4.3,1544.0,PRICE_LEVEL_VERY_EXPENSIVE,chicken_restaurant,1
+Aska,Two Stars,4.6,577.0,PRICE_LEVEL_VERY_EXPENSIVE,scandinavian_restaurant,1
+Cote,One Star,4.6,4006.0,PRICE_LEVEL_VERY_EXPENSIVE,steak_house,1
+Jua,One Star,4.7,715.0,PRICE_LEVEL_VERY_EXPENSIVE,korean_restaurant,1
+Shota Omakase,One Star,4.6,160.0,,restaurant,1
+La Tête d’Or,Selected Restaurants,4.6,511.0,,french_restaurant,1
+Sunday in Brooklyn,Selected Restaurants,4.4,3905.0,PRICE_LEVEL_MODERATE,american_restaurant,1
+Eleven Madison Park,Three Stars,4.4,3242.0,PRICE_LEVEL_VERY_EXPENSIVE,fine_dining_restaurant,1
+Junoon,Selected Restaurants,4.4,4435.0,PRICE_LEVEL_VERY_EXPENSIVE,indian_restaurant,1
+Glin Thai Bistro,Selected Restaurants,4.9,4538.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Francie,One Star,4.4,703.0,PRICE_LEVEL_MODERATE,restaurant,1
+Mesiba,Selected Restaurants,4.3,329.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,1
+Meadowsweet,Selected Restaurants,4.6,1096.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,1
+Upland,Selected Restaurants,4.5,2410.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+Il Fiorista,Selected Restaurants,4.3,415.0,,italian_restaurant,1
+Peter Luger,Selected Restaurants,4.4,15734.0,PRICE_LEVEL_VERY_EXPENSIVE,steak_house,1
+Café Kestrel,Selected Restaurants,4.4,85.0,,restaurant,1
+Atoboy,Selected Restaurants,4.4,1366.0,PRICE_LEVEL_MODERATE,korean_restaurant,1
+Ulivo,Selected Restaurants,4.4,811.0,PRICE_LEVEL_MODERATE,italian_restaurant,1
+Café Carmellini,Selected Restaurants,4.5,500.0,,fine_dining_restaurant,1
+Miss Ada,bib,4.6,1707.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,1
+Red Hook Tavern,Selected Restaurants,4.3,1229.0,PRICE_LEVEL_MODERATE,american_restaurant,1
+Hungry Thirsty,Selected Restaurants,4.8,391.0,PRICE_LEVEL_VERY_EXPENSIVE,thai_restaurant,1
+Markette,Selected Restaurants,4.6,233.0,,restaurant,1
+Mango Bay,Selected Restaurants,4.3,424.0,,caribbean_restaurant,1
+Atomix,Two Stars,4.7,507.0,PRICE_LEVEL_VERY_EXPENSIVE,korean_restaurant,1
+Sailor,Selected Restaurants,4.5,415.0,,restaurant,1
+Norma Gastronomia Siciliana,bib,4.6,1701.0,PRICE_LEVEL_MODERATE,italian_restaurant,1
+Enso,Selected Restaurants,4.7,69.0,,japanese_restaurant,1
+6 Restaurant,Selected Restaurants,4.9,106.0,,restaurant,1
+Theodora,Selected Restaurants,4.6,657.0,,mediterranean_restaurant,1
+Laser Wolf,Selected Restaurants,4.2,1078.0,,israeli_restaurant,1
+HanGawi,bib,4.6,2060.0,PRICE_LEVEL_EXPENSIVE,vegan_restaurant,1
+The Four Horsemen,One Star,4.6,1105.0,PRICE_LEVEL_MODERATE,restaurant,1
+Joo Ok,Two Stars,4.7,181.0,,korean_restaurant,1
+Moono,Selected Restaurants,4.4,476.0,,korean_restaurant,1
+Hav & Mar,Selected Restaurants,4.5,598.0,,seafood_restaurant,1
+Dons Bogam,Michelin Star,4.4,1574.0,PRICE_LEVEL_EXPENSIVE,korean_barbecue_restaurant,1
+Nōksu,One Star,4.6,190.0,,korean_restaurant,1
+Hyun,Selected Restaurants,4.1,764.0,PRICE_LEVEL_VERY_EXPENSIVE,korean_barbecue_restaurant,1
+Hometown Bar B Que New York,bib,4.5,4389.0,PRICE_LEVEL_MODERATE,barbecue_restaurant,1
+Seoul Salon,Selected Restaurants,4.5,561.0,PRICE_LEVEL_MODERATE,korean_restaurant,1
+Café Mars,bib,4.6,173.0,,restaurant,1
+Octo,Selected Restaurants,4.2,415.0,PRICE_LEVEL_VERY_EXPENSIVE,korean_restaurant,1
+Runner & Stone,Selected Restaurants,4.6,523.0,PRICE_LEVEL_MODERATE,american_restaurant,1
+Shalom Japan,bib,4.3,855.0,PRICE_LEVEL_EXPENSIVE,fusion_restaurant,1
+Sawa,Selected Restaurants,4.5,285.0,,lebanese_restaurant,1
+Lingo,Selected Restaurants,4.6,321.0,,japanese_restaurant,1
+Chez Ma Tante,Selected Restaurants,4.4,956.0,PRICE_LEVEL_MODERATE,bistro,1
+KRU,Selected Restaurants,4.2,281.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Cho Dang Gol,bib,4.6,3069.0,PRICE_LEVEL_MODERATE,korean_restaurant,1
+Tonchin,bib,4.6,3435.0,PRICE_LEVEL_MODERATE,ramen_restaurant,1
+Ci Siamo,Selected Restaurants,4.6,2091.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Ai Fiori,Selected Restaurants,4.4,1806.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Little Alley,bib,4.4,939.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Peak,Selected Restaurants,5.0,1.0,,,1
+Sofreh,Selected Restaurants,4.3,1090.0,PRICE_LEVEL_EXPENSIVE,persian_restaurant,1
+Papa San,Selected Restaurants,4.4,251.0,,peruvian_restaurant,1
+Uzuki,Selected Restaurants,4.4,299.0,,japanese_restaurant,1
+Madre,Selected Restaurants,4.7,546.0,PRICE_LEVEL_MODERATE,restaurant,1
+Place des Fêtes,Selected Restaurants,4.5,472.0,,restaurant,1
+Haenyeo,bib,4.5,658.0,PRICE_LEVEL_MODERATE,korean_restaurant,1
+Oxomoco,One Star,4.5,2401.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Tempura Matsui,One Star,4.8,366.0,PRICE_LEVEL_VERY_EXPENSIVE,japanese_restaurant,1
+Restaurant Yuu,One Star,4.6,220.0,,french_restaurant,1
+Peppercorn Station,bib,4.3,466.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Szechuan Gourmet,Selected Restaurants,4.3,1088.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Chef's Table at Brooklyn Fare,Two Stars,4.3,609.0,PRICE_LEVEL_VERY_EXPENSIVE,fine_dining_restaurant,1
+Speedy Romeo,bib,4.3,1426.0,PRICE_LEVEL_MODERATE,pizza_restaurant,1
+Rose Marie,Selected Restaurants,4.5,59.0,,restaurant,1
+Taqueria El Chato,bib,4.6,252.0,,mexican_restaurant,1
+Alta Calidad,bib,4.5,867.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Pierozek,bib,4.8,1116.0,PRICE_LEVEL_MODERATE,polish_restaurant,1
+ILIS,Selected Restaurants,4.3,275.0,,restaurant,1
+Sushi Sho,Three Stars,4.7,82.0,,restaurant,1
+Wenwen,Selected Restaurants,4.5,678.0,PRICE_LEVEL_MODERATE,taiwanese_restaurant,1
+Gabriel Kreuther,Two Stars,4.6,1307.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+Le Pavillon,One Star,4.5,1019.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+Fausto,Selected Restaurants,4.5,640.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,1
+Sushi Yasuda,Selected Restaurants,4.4,1560.0,PRICE_LEVEL_VERY_EXPENSIVE,sushi_restaurant,1
+Jōji,One Star,4.5,127.0,,sushi_restaurant,1
+Izakaya Futago,Selected Restaurants,4.4,1002.0,PRICE_LEVEL_MODERATE,japanese_izakaya_restaurant,1
+Bonnie's,bib,4.3,578.0,PRICE_LEVEL_MODERATE,cantonese_restaurant,1
+The Lambs Club,Selected Restaurants,4.4,822.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,1
+Ammazzacaffè,Selected Restaurants,4.4,602.0,PRICE_LEVEL_MODERATE,italian_restaurant,1
+Veerays,Michelin Star,4.4,199.0,,indian_restaurant,1
+Casa Ora,Selected Restaurants,4.6,1202.0,PRICE_LEVEL_MODERATE,restaurant,1
+Win Son,bib,4.5,1458.0,PRICE_LEVEL_MODERATE,taiwanese_restaurant,1
+Meju,One Star,4.7,77.0,,korean_restaurant,1
+Fasano,Selected Restaurants,4.6,346.0,PRICE_LEVEL_INEXPENSIVE,restaurant,1
+Gui,Selected Restaurants,4.5,386.0,,steak_house,1
+Kochi,One Star,4.6,980.0,,fine_dining_restaurant,1
+Mari,One Star,4.5,475.0,PRICE_LEVEL_VERY_EXPENSIVE,fine_dining_restaurant,1
+Hart's,Selected Restaurants,4.6,415.0,PRICE_LEVEL_EXPENSIVE,mediterranean_restaurant,1
+Casa Enrique,Selected Restaurants,4.5,3014.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Hupo,bib,4.4,555.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Runner Up,bib,4.6,107.0,,american_restaurant,1
+Jupiter,Selected Restaurants,4.1,575.0,,restaurant,1
+Kung Fu Little Steamed Buns Ramen,bib,4.2,791.0,PRICE_LEVEL_INEXPENSIVE,chinese_restaurant,1
+Le Rock,Selected Restaurants,4.3,325.0,,restaurant,1
+See No Evil Pizza,Selected Restaurants,4.6,354.0,PRICE_LEVEL_MODERATE,pizza_restaurant,1
+R40,Selected Restaurants,4.5,415.0,,argentinian_restaurant,1
+Don Antonio,Selected Restaurants,4.6,2112.0,PRICE_LEVEL_MODERATE,pizza_restaurant,1
+Le Bernardin,Three Stars,4.6,4550.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+The Grill,Selected Restaurants,4.6,831.0,PRICE_LEVEL_VERY_EXPENSIVE,fine_dining_restaurant,1
+Cafe Mado,Selected Restaurants,4.7,223.0,PRICE_LEVEL_MODERATE,restaurant,1
+Le Jardinier New York,Selected Restaurants,4.4,434.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+Chalong,bib,4.8,3497.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+LORE,bib,4.7,592.0,,indian_restaurant,1
+Lobster Club,Selected Restaurants,4.4,403.0,PRICE_LEVEL_VERY_EXPENSIVE,japanese_restaurant,1
+Gallaghers,Selected Restaurants,4.6,9268.0,PRICE_LEVEL_VERY_EXPENSIVE,steak_house,1
+Santi,Selected Restaurants,4.5,303.0,,italian_restaurant,1
+53,Selected Restaurants,4.3,684.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+The Modern,Two Stars,4.6,2724.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Hyderabadi Zaiqa,Selected Restaurants,4.5,862.0,PRICE_LEVEL_MODERATE,indian_restaurant,1
+Caviar Russe,Selected Restaurants,4.5,298.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Benoit,Selected Restaurants,4.4,1181.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,1
+YingTao,One Star,4.4,207.0,,chinese_restaurant,1
+Aquavit,Two Stars,4.6,1272.0,PRICE_LEVEL_VERY_EXPENSIVE,scandinavian_restaurant,1
+Four Twenty Five,Selected Restaurants,4.5,262.0,,american_restaurant,1
+Chavela’s,bib,4.5,3101.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Roberta's,bib,4.4,2120.0,PRICE_LEVEL_MODERATE,pizza_restaurant,1
+Agi's Counter,bib,4.6,655.0,PRICE_LEVEL_MODERATE,eastern_european_restaurant,1
+Chola,Selected Restaurants,4.3,790.0,PRICE_LEVEL_MODERATE,indian_restaurant,1
+Sobre Masa,bib,4.5,461.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Marea,Selected Restaurants,4.5,3011.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Per Se,Three Stars,4.5,2070.0,PRICE_LEVEL_VERY_EXPENSIVE,fine_dining_restaurant,1
+Le Veau d'Or,Selected Restaurants,4.5,280.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,1
+Masa,Two Stars,4.2,584.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,1
+Daphne's,Selected Restaurants,4.7,185.0,,italian_restaurant,1
+Jean-Georges,Two Stars,4.5,1351.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+Café Boulud,One Star,4.5,917.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+Lungi,bib,4.6,1204.0,PRICE_LEVEL_MODERATE,south_indian_restaurant,1
+Vert Frais,Michelin Star,4.3,458.0,PRICE_LEVEL_MODERATE,japanese_restaurant,1
+JoJo,Selected Restaurants,4.3,701.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+Tatiana,Selected Restaurants,4.3,851.0,PRICE_LEVEL_VERY_EXPENSIVE,caribbean_restaurant,1
+Bayon,bib,4.8,203.0,PRICE_LEVEL_INEXPENSIVE,cambodian_restaurant,1
+Daniel,One Star,4.6,2500.0,PRICE_LEVEL_VERY_EXPENSIVE,french_restaurant,1
+The Leopard at Des Artistes,Selected Restaurants,4.4,424.0,PRICE_LEVEL_VERY_EXPENSIVE,italian_restaurant,1
+El Fish Marisqueria,Selected Restaurants,4.5,303.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Cafe Commerce,Selected Restaurants,4.6,282.0,,restaurant,1
+Tong,Selected Restaurants,4.5,752.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Risbo,Selected Restaurants,4.5,1027.0,PRICE_LEVEL_MODERATE,french_restaurant,1
+Mission Ceviche,Selected Restaurants,4.7,1922.0,,seafood_restaurant,1
+Bohemian Spirit,bib,4.5,685.0,PRICE_LEVEL_MODERATE,czech_restaurant,1
+Persepolis,Selected Restaurants,4.2,806.0,PRICE_LEVEL_MODERATE,persian_restaurant,1
+Chez Fifi,Selected Restaurants,4.2,165.0,,restaurant,1
+Gordo's Cantina,bib,4.5,673.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+J.G. Melon,Selected Restaurants,4.2,3913.0,PRICE_LEVEL_MODERATE,bar_and_grill,1
+Kebab aur Sharab,Selected Restaurants,4.3,931.0,,indian_restaurant,1
+Orsay,Selected Restaurants,4.3,946.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,1
+Sushi Akira,Selected Restaurants,4.9,71.0,,japanese_restaurant,1
+Sempre Oggi,Selected Restaurants,4.7,461.0,,italian_restaurant,1
+Sushi Noz,Two Stars,4.5,444.0,PRICE_LEVEL_VERY_EXPENSIVE,sushi_restaurant,1
+Essential by Christophe,One Star,4.8,430.0,,french_restaurant,1
+Covacha,bib,4.3,1770.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Cardamom,bib,4.5,511.0,PRICE_LEVEL_INEXPENSIVE,indian_restaurant,1
+Tha Phraya,bib,4.8,1276.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Chuan Tian Xia,bib,4.3,582.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Ly Ly Vietnam Cookhouse,Selected Restaurants,4.8,392.0,,vietnamese_restaurant,1
+Olmo,bib,4.8,105.0,,restaurant,1
+Cafe Sabarsky,Selected Restaurants,4.3,1247.0,PRICE_LEVEL_EXPENSIVE,austrian_restaurant,1
+Eléa,Selected Restaurants,4.6,1101.0,PRICE_LEVEL_MODERATE,greek_restaurant,1
+Rolo's,bib,4.5,1824.0,PRICE_LEVEL_MODERATE,bar_and_grill,1
+East Harbor Seafood Palace,Selected Restaurants,4.3,2159.0,PRICE_LEVEL_MODERATE,seafood_restaurant,1
+il Gigante,Selected Restaurants,4.7,280.0,,italian_restaurant,1
+Chick Chick,Selected Restaurants,4.5,452.0,PRICE_LEVEL_MODERATE,chicken_restaurant,1
+Dagon,Selected Restaurants,4.8,2382.0,PRICE_LEVEL_EXPENSIVE,mediterranean_restaurant,1
+Tanoreen,bib,4.7,2990.0,PRICE_LEVEL_MODERATE,middle_eastern_restaurant,1
+Yemenat,bib,4.7,918.0,PRICE_LEVEL_EXPENSIVE,restaurant,1
+Enoteca Maria,Selected Restaurants,4.7,1590.0,PRICE_LEVEL_MODERATE,italian_restaurant,1
+Phayul,bib,4.1,733.0,PRICE_LEVEL_INEXPENSIVE,tibetan_restaurant,1
+Zaab Zaab,bib,4.3,322.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Miss Mamie's Spoonbread Too,Selected Restaurants,4.0,484.0,PRICE_LEVEL_MODERATE,soul_food_restaurant,1
+Taverna Kyclades,Selected Restaurants,4.6,5165.0,PRICE_LEVEL_MODERATE,greek_restaurant,1
+Seppe Pizza Bar,Selected Restaurants,4.5,562.0,PRICE_LEVEL_MODERATE,pizza_restaurant,1
+Melba's,Selected Restaurants,4.3,4649.0,PRICE_LEVEL_MODERATE,american_restaurant,1
+SaRanRom Thai,bib,4.8,1240.0,PRICE_LEVEL_MODERATE,thai_restaurant,1
+Lakruwana,Selected Restaurants,4.5,1069.0,PRICE_LEVEL_MODERATE,sri_lankan_restaurant,1
+Barawine,Selected Restaurants,4.3,897.0,PRICE_LEVEL_MODERATE,wine_bar,1
+Neta Shari,Selected Restaurants,4.7,155.0,,sushi_restaurant,1
+Oso,bib,4.5,846.0,PRICE_LEVEL_MODERATE,mexican_restaurant,1
+Seis Vecinos,Selected Restaurants,4.1,2303.0,PRICE_LEVEL_MODERATE,restaurant,1
+Caleta 111 Cevicheria,bib,4.4,449.0,PRICE_LEVEL_EXPENSIVE,peruvian_restaurant,1
+Asian Jewels,Selected Restaurants,4.2,3044.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Jiang Nan,bib,4.7,2382.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Alley 41,bib,4.6,825.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Tong Sam Gyup Goo Yi,bib,4.2,304.0,PRICE_LEVEL_MODERATE,korean_barbecue_restaurant,1
+Çka Ka Qëllu,Selected Restaurants,4.8,1453.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,1
+Tra Di Noi,Selected Restaurants,4.4,539.0,PRICE_LEVEL_MODERATE,italian_restaurant,1
+Legend of Taste,bib,4.4,373.0,PRICE_LEVEL_MODERATE,chinese_restaurant,1
+Patricia’s,Selected Restaurants,4.3,416.0,PRICE_LEVEL_MODERATE,italian_restaurant,1
+Tobalá,Selected Restaurants,4.5,372.0,,mexican_restaurant,1
+Dubrovnik,Selected Restaurants,4.7,1085.0,PRICE_LEVEL_MODERATE,croatian_restaurant,1
+Maria Restaurant,Selected Restaurants,4.5,427.0,PRICE_LEVEL_MODERATE,italian_restaurant,1
+Artesano,None,4.6,995.0,PRICE_LEVEL_MODERATE,peruvian_restaurant,0
+Gran Morsi,None,4.4,611.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Serafina Tribeca,None,4.4,1562.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Mudville,None,4.2,926.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Benares Tribeca Indian Restaurant,None,4.2,2312.0,PRICE_LEVEL_MODERATE,indian_restaurant,0
+CUT by Wolfgang Puck,None,4.4,780.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+69 Leonard Street,None,4.5,241.0,PRICE_LEVEL_VERY_EXPENSIVE,japanese_restaurant,0
+Two Hands,None,4.4,1304.0,PRICE_LEVEL_MODERATE,australian_restaurant,0
+Tara Kitchen Tribeca,None,4.6,268.0,PRICE_LEVEL_MODERATE,moroccan_restaurant,0
+Forgione,None,4.6,764.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Gigino Trattoria,None,4.4,604.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+American Cut,None,4.5,1028.0,PRICE_LEVEL_VERY_EXPENSIVE,steak_house,0
+Locanda Verde Tribeca,None,4.4,2317.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Mr Chow,None,3.9,693.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+Frenchette,None,4.3,1278.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Terra,None,4.3,844.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Serafina Financial District,None,4.6,1049.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Mei Lai Wah,None,4.4,3787.0,PRICE_LEVEL_INEXPENSIVE,chinese_restaurant,0
+House of Joy,None,4.1,1368.0,PRICE_LEVEL_INEXPENSIVE,dim_sum_restaurant,0
+Nom Wah Tea Parlor,None,4.2,5244.0,PRICE_LEVEL_INEXPENSIVE,dim_sum_restaurant,0
+Mei Lai Wah | Wonton Noodle Garden,None,4.3,1950.0,PRICE_LEVEL_INEXPENSIVE,chinese_restaurant,0
+Ajisen Ramen,None,4.6,2588.0,PRICE_LEVEL_INEXPENSIVE,ramen_restaurant,0
+Tasty Hand - Pulled Noodles,None,4.4,1472.0,PRICE_LEVEL_INEXPENSIVE,chinese_noodle_restaurant,0
+Golden Unicorn,None,4.0,3509.0,PRICE_LEVEL_MODERATE,dim_sum_restaurant,0
+Joe's Shanghai,None,4.2,6143.0,PRICE_LEVEL_INEXPENSIVE,chinese_restaurant,0
+Deluxe Green Bo,None,4.3,1627.0,PRICE_LEVEL_INEXPENSIVE,chinese_restaurant,0
+NOMO Kitchen,None,3.9,1282.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Wolfgang's Steakhouse,None,4.4,1661.0,PRICE_LEVEL_VERY_EXPENSIVE,steak_house,0
+Yves,None,4.1,323.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Tomiño Taberna Gallega,None,4.6,2268.0,PRICE_LEVEL_MODERATE,spanish_restaurant,0
+Hometown Hotpot & BBQ,None,4.3,2104.0,PRICE_LEVEL_MODERATE,hot_pot_restaurant,0
+Super Taste,None,4.6,1545.0,PRICE_LEVEL_INEXPENSIVE,chinese_restaurant,0
+Fong On,None,4.6,496.0,PRICE_LEVEL_MODERATE,korean_restaurant,0
+Kiki's,None,4.4,2465.0,PRICE_LEVEL_MODERATE,greek_restaurant,0
+Kopitiam,None,4.2,1562.0,PRICE_LEVEL_INEXPENSIVE,malaysian_restaurant,0
+Balzem,None,4.6,1624.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+The Butcher's Daughter,None,4.0,2155.0,PRICE_LEVEL_MODERATE,vegetarian_restaurant,0
+Metrograph,None,4.6,1470.0,PRICE_LEVEL_EXPENSIVE,movie_theater,0
+Peasant,None,4.4,796.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Kyuramen,None,4.5,1960.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+Cocoron,None,4.4,1342.0,PRICE_LEVEL_MODERATE,restaurant,0
+La Sirène SoHo,None,4.5,662.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Wayla,None,4.5,1138.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Vanessa's Dumpling House,None,4.3,858.0,PRICE_LEVEL_INEXPENSIVE,restaurant,0
+Carol's Bun,None,4.7,231.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+Dudleys,None,4.4,1814.0,PRICE_LEVEL_MODERATE,restaurant,0
+Congee Village,None,4.1,2552.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+The Dutch,None,4.3,2414.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Blue Ribbon Sushi,None,4.6,1862.0,PRICE_LEVEL_MODERATE,sushi_restaurant,0
+Revelie,None,4.7,269.0,PRICE_LEVEL_MODERATE,diner,0
+Westville Hudson,None,4.5,1635.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Il Corallo Trattoria,None,4.5,2011.0,PRICE_LEVEL_INEXPENSIVE,italian_restaurant,0
+La Pecora Bianca SoHo,None,4.8,5827.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Macbar,None,4.1,368.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Freemans,None,4.4,2355.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Spicy Moon Bowery,None,4.5,655.0,PRICE_LEVEL_MODERATE,vegan_restaurant,0
+Good Thanks Cafe,None,4.6,818.0,PRICE_LEVEL_MODERATE,brunch_restaurant,0
+Izakaya Juraku,None,4.7,616.0,PRICE_LEVEL_MODERATE,japanese_izakaya_restaurant,0
+Charlie Bird,None,4.4,1084.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Left Bank Menlo Park,None,4.2,1204.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Camper,None,4.4,474.0,PRICE_LEVEL_MODERATE,californian_restaurant,0
+ORGANICO,None,4.5,455.0,PRICE_LEVEL_MODERATE,restaurant,0
+Roxanne Cafe,None,4.3,2010.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Lori's Diner,None,4.1,4571.0,PRICE_LEVEL_MODERATE,diner,0
+Tacombi,None,4.4,2589.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Bowery Meat Company,None,4.5,1275.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+Fish Cheeks,None,4.7,5146.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Wicked Willy's,None,4.1,1651.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Carroll Place,None,4.3,1480.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Mr. Taka Ramen,None,4.5,1511.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+Hair of the Dog,None,4.0,1570.0,PRICE_LEVEL_INEXPENSIVE,sports_bar,0
+Jajaja Mexicana,None,4.6,1757.0,PRICE_LEVEL_MODERATE,vegan_restaurant,0
+Top Thai 55 Carmine,None,4.7,4966.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Saluggi's East,None,4.4,1070.0,PRICE_LEVEL_MODERATE,restaurant,0
+Manousheh Grand,None,4.6,538.0,PRICE_LEVEL_INEXPENSIVE,lebanese_restaurant,0
+Dante NYC,None,4.5,2715.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Bar Pitti,None,3.8,1761.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Gemma,None,4.3,1095.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Clark's,None,4.4,1786.0,PRICE_LEVEL_MODERATE,diner,0
+Kogane,None,4.4,1047.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+Blue Ribbon Sushi Izakaya,None,4.4,931.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Le French Diner,None,4.5,531.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Rosie's,None,4.5,1895.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Baar Baar,None,4.0,2022.0,PRICE_LEVEL_EXPENSIVE,indian_restaurant,0
+Jack's Wife Freda,None,4.4,2136.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Son del North,None,4.3,505.0,PRICE_LEVEL_INEXPENSIVE,burrito_restaurant,0
+Fools Gold NYC,None,4.5,1187.0,PRICE_LEVEL_MODERATE,cocktail_bar,0
+divya's kitchen,None,4.6,771.0,PRICE_LEVEL_MODERATE,vegetarian_restaurant,0
+Vic's,None,4.6,1204.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Swift Hibernian Lounge,None,4.5,1040.0,PRICE_LEVEL_MODERATE,irish_pub,0
+Berimbau Brazilian Table - West Village,None,4.6,1465.0,PRICE_LEVEL_MODERATE,brazilian_restaurant,0
+The Bowery Hotel,None,4.5,1666.0,PRICE_LEVEL_EXPENSIVE,hotel,0
+Gazab,None,4.5,1242.0,PRICE_LEVEL_MODERATE,indian_restaurant,0
+Taverna Di Bacco,None,4.7,556.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Cafe Himalaya,None,4.7,928.0,PRICE_LEVEL_INEXPENSIVE,tibetan_restaurant,0
+Grand Canyon Restaurant,None,4.4,543.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Little Owl,None,4.5,1407.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Hudson Clearwater,None,4.4,1200.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Toriya,None,4.6,216.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Palma,None,4.6,1162.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Remedy Diner,None,3.9,2839.0,PRICE_LEVEL_MODERATE,diner,0
+Il Posto Accanto,None,4.6,596.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Babbo,None,4.3,1786.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,0
+Cowgirl,None,4.2,1563.0,PRICE_LEVEL_MODERATE,southwestern_us_restaurant,0
+Casa La Femme,None,3.8,1925.0,PRICE_LEVEL_MODERATE,restaurant,0
+Buvette,None,4.4,4271.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Fiaschetteria “Pistoia”,None,4.4,654.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Boucherie West Village,None,4.8,9271.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Gnoccheria East Village,None,4.5,912.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Virginia's,None,4.4,416.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Raku,None,4.5,1398.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+upstate craft beer & oyster bar,None,4.6,992.0,PRICE_LEVEL_MODERATE,oyster_bar_restaurant,0
+OLIO E PIÙ,None,4.7,10860.0,PRICE_LEVEL_MODERATE,restaurant,0
+Petite Boucherie,None,4.7,2050.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Mountain House East Village,None,4.6,2215.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+The Bao,None,4.3,1340.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+The Grafton,None,4.4,446.0,PRICE_LEVEL_MODERATE,irish_pub,0
+Hunan Slurp,None,4.2,476.0,PRICE_LEVEL_MODERATE,restaurant,0
+Kazuza,None,4.6,1723.0,PRICE_LEVEL_MODERATE,hookah_bar,0
+Death & Co East Village,None,4.5,2077.0,PRICE_LEVEL_EXPENSIVE,cocktail_bar,0
+Horus Cafe,None,4.3,714.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Hen House Nyc,None,4.4,416.0,PRICE_LEVEL_MODERATE,lebanese_restaurant,0
+Taqueria St. Marks Place,None,4.6,1001.0,PRICE_LEVEL_INEXPENSIVE,mexican_restaurant,0
+La Palapa,None,4.2,791.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Omakase Room by Mitsu,None,4.7,316.0,PRICE_LEVEL_VERY_EXPENSIVE,japanese_restaurant,0
+Giano,None,4.7,561.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Crispiano,None,4.6,302.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Hi-Collar,None,4.4,1236.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Temakase Hand Roll Bar - 2nd Ave,None,4.5,1108.0,PRICE_LEVEL_MODERATE,sushi_restaurant,0
+Yuca Bar & Restaurant,None,4.5,3429.0,PRICE_LEVEL_MODERATE,latin_american_restaurant,0
+The Smith,None,4.4,2878.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Cathédrale Restaurant,None,4.1,1387.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+IPPUDO NY,None,4.4,5468.0,PRICE_LEVEL_MODERATE,restaurant,0
+Tim Ho Wan East Village,None,4.1,2469.0,PRICE_LEVEL_MODERATE,dim_sum_restaurant,0
+Ray's Candy Store,None,4.7,1367.0,PRICE_LEVEL_INEXPENSIVE,dessert_shop,0
+St. Dymphna's,None,4.0,282.0,PRICE_LEVEL_INEXPENSIVE,pub,0
+Cafe Mogador,None,4.5,3032.0,PRICE_LEVEL_MODERATE,moroccan_restaurant,0
+Please Don't Tell,None,4.3,2417.0,PRICE_LEVEL_EXPENSIVE,cocktail_bar,0
+TOKUYAMATCHA & ONIGIRAZU BAR- E 6th St.,None,4.4,442.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Rai Rai Ken + Curry Ya + Otafuku,None,4.4,1506.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Shabu-Tatsu,None,4.3,523.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+The Grey Dog - Union Square,None,4.4,1853.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Village Taverna,None,4.6,991.0,PRICE_LEVEL_MODERATE,greek_restaurant,0
+Hanoi House,None,4.5,1342.0,PRICE_LEVEL_MODERATE,vietnamese_restaurant,0
+TabeTomo,None,4.5,1161.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+La Contenta Oeste,None,4.5,1125.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Bar Six,None,4.4,604.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Morandi,None,4.4,1628.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Mighty Quinn's Barbeque,None,4.3,3828.0,PRICE_LEVEL_MODERATE,barbecue_restaurant,0
+Lhasa,None,4.6,348.0,PRICE_LEVEL_INEXPENSIVE,tibetan_restaurant,0
+Yemen Café & Restaurant,None,4.5,3524.0,PRICE_LEVEL_MODERATE,restaurant,0
+Hadramout Restaurant,None,4.1,1229.0,PRICE_LEVEL_MODERATE,restaurant,0
+Han Dynasty,None,4.3,1522.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+Kyuramen - Union Square,None,4.5,2060.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Cafe Cluny,None,4.4,1365.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+St Tropez West Village,None,4.6,944.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Love Mama,None,4.4,1684.0,PRICE_LEVEL_MODERATE,asian_restaurant,0
+John's of 12th Street,None,4.4,1338.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Mino Brasserie,None,4.7,652.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Au Za'atar - East Village,None,4.3,4407.0,PRICE_LEVEL_MODERATE,lebanese_restaurant,0
+El Camion Cantina,None,4.4,795.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Osteria Nonnino,None,4.8,3759.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Pastis,None,4.6,3084.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+Panda Express,None,3.9,968.0,PRICE_LEVEL_INEXPENSIVE,chinese_restaurant,0
+Bed-Stuy Fish Fry,None,3.4,723.0,PRICE_LEVEL_INEXPENSIVE,seafood_restaurant,0
+Lemongrass Brooklyn,None,4.6,4014.0,PRICE_LEVEL_INEXPENSIVE,thai_restaurant,0
+Joya,None,4.3,1259.0,PRICE_LEVEL_INEXPENSIVE,thai_restaurant,0
+Laut,None,4.4,2264.0,PRICE_LEVEL_MODERATE,malaysian_restaurant,0
+Pasta Eater,None,4.5,1545.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Dear Irving Gramercy,None,4.6,1053.0,PRICE_LEVEL_EXPENSIVE,cocktail_bar,0
+Yakiniku Futago Chelsea,None,4.6,1256.0,PRICE_LEVEL_EXPENSIVE,barbecue_restaurant,0
+Vinyl Steakhouse,None,4.7,821.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+Alma BK,None,4.3,894.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Mazzat,None,4.8,701.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+da Umberto,None,4.5,385.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+The Standard Biergarten,None,4.1,1753.0,PRICE_LEVEL_MODERATE,beer_garden,0
+Doughnuttery,None,4.0,484.0,PRICE_LEVEL_INEXPENSIVE,donut_shop,0
+abc kitchen,None,4.4,3041.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+Vallata,None,4.4,337.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Union Square Cafe,None,4.6,2369.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Boucherie Union Square,None,4.7,4800.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Dough Doughnuts Flatiron,None,4.5,3305.0,PRICE_LEVEL_MODERATE,donut_shop,0
+Baodega 小杨生煎,None,4.6,1541.0,PRICE_LEVEL_MODERATE,dim_sum_restaurant,0
+The Best Sichuan 一品成都21,None,4.9,2431.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+mezeh,None,4.2,303.0,PRICE_LEVEL_INEXPENSIVE,mediterranean_restaurant,0
+Giorgio's of Gramercy,None,4.5,542.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Bijan's,None,4.3,1292.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+French Louie,None,4.5,1298.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Lobster Place,None,4.5,3689.0,PRICE_LEVEL_EXPENSIVE,seafood_restaurant,0
+Friedman's,None,4.5,1765.0,PRICE_LEVEL_MODERATE,restaurant,0
+Bar Bruno,None,4.3,502.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Cafe Spaghetti,None,4.7,583.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Miznon,None,4.4,2923.0,PRICE_LEVEL_MODERATE,israeli_restaurant,0
+Misi,None,4.3,1832.0,PRICE_LEVEL_VERY_EXPENSIVE,italian_restaurant,0
+Antidote,None,4.8,2086.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+CAVA,None,4.6,2004.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Just Salad,None,4.6,530.0,PRICE_LEVEL_MODERATE,restaurant,0
+12 Chairs Café,None,4.4,1726.0,PRICE_LEVEL_MODERATE,israeli_restaurant,0
+LaRina Pastificio & Vino,None,4.7,1195.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Buff Patty,None,3.9,957.0,PRICE_LEVEL_MODERATE,restaurant,0
+OTB,None,4.6,328.0,PRICE_LEVEL_MODERATE,cocktail_bar,0
+Pies 'n' Thighs,None,4.4,3863.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Simple,None,4.4,476.0,PRICE_LEVEL_MODERATE,restaurant,0
+Hillstone,None,4.4,2403.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Sarabeth's Park Avenue South,None,4.2,2008.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Bazár Tapas Bar and Restaurant,None,4.4,1252.0,PRICE_LEVEL_MODERATE,tapas_restaurant,0
+INDAY,None,4.5,733.0,PRICE_LEVEL_INEXPENSIVE,indian_restaurant,0
+Red Hook Lobster Pound,None,4.4,2307.0,PRICE_LEVEL_MODERATE,seafood_restaurant,0
+Brooklyn Ice House,None,4.5,573.0,PRICE_LEVEL_INEXPENSIVE,bar_and_grill,0
+Marta,None,4.5,1880.0,PRICE_LEVEL_MODERATE,restaurant,0
+Tavern 29,None,4.1,1100.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Pastagasm,None,4.8,501.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+KazuNori: The Original Hand Roll Bar,None,4.7,3074.0,PRICE_LEVEL_MODERATE,sushi_restaurant,0
+KRAAM Thai,None,4.7,468.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Olea,None,4.6,1840.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Black Iris,None,4.7,1361.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Goog Thai Cook Shop,None,4.6,464.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Mustang Harry's,None,4.4,2499.0,PRICE_LEVEL_MODERATE,restaurant,0
+CAVA,None,4.7,964.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Evelina,None,4.7,1509.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Colonia Verde,None,4.6,991.0,PRICE_LEVEL_MODERATE,restaurant,0
+Fumo Kips Bay,None,4.4,355.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Sweet Chick,None,4.4,3684.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Oasis,None,4.6,1107.0,PRICE_LEVEL_INEXPENSIVE,mediterranean_restaurant,0
+Frankies 457 Spuntino,None,4.5,1456.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Aromi,None,4.8,729.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Habana Outpost,None,4.6,2292.0,PRICE_LEVEL_INEXPENSIVE,mexican_restaurant,0
+Wythe Hotel,None,4.5,1622.0,PRICE_LEVEL_EXPENSIVE,hotel,0
+Kokomo Restaurant & Lounge,None,4.4,3109.0,PRICE_LEVEL_MODERATE,caribbean_restaurant,0
+NUBIANI - Koreatown,None,4.5,960.0,PRICE_LEVEL_EXPENSIVE,korean_barbecue_restaurant,0
+St. Mazie Bar & Supper Club,None,4.5,1194.0,PRICE_LEVEL_MODERATE,live_music_venue,0
+Have & Meyer,None,4.4,748.0,PRICE_LEVEL_MODERATE,restaurant,0
+Anytime Kitchen,None,4.6,2353.0,PRICE_LEVEL_MODERATE,korean_restaurant,0
+Woorijip,None,4.5,3009.0,PRICE_LEVEL_INEXPENSIVE,korean_restaurant,0
+The Cutting Room,None,4.4,1415.0,PRICE_LEVEL_MODERATE,live_music_venue,0
+The Ainsworth Midtown,None,3.9,1364.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+DDOBAR by Joomak NYC,None,4.7,238.0,PRICE_LEVEL_INEXPENSIVE,restaurant,0
+Baekjeong NYC,None,4.4,2477.0,PRICE_LEVEL_EXPENSIVE,korean_barbecue_restaurant,0
+Antoya Korean BBQ,None,4.4,2440.0,PRICE_LEVEL_MODERATE,korean_barbecue_restaurant,0
+Hometown Bar-B-Que,None,4.5,4389.0,PRICE_LEVEL_MODERATE,barbecue_restaurant,0
+Brooklyn Crab,None,4.2,2988.0,PRICE_LEVEL_MODERATE,seafood_restaurant,0
+Kiosko 787,None,4.2,835.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Miriam Restaurant,None,4.4,2254.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+BK9,None,4.2,1298.0,PRICE_LEVEL_MODERATE,caribbean_restaurant,0
+Di An Di,None,4.3,1061.0,PRICE_LEVEL_MODERATE,vietnamese_restaurant,0
+The Brooklyn Barge,None,4.5,890.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Taqueria Ramirez,None,4.7,1881.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Le Gamin,None,4.4,544.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Brooklyn Bowl,None,4.5,3910.0,PRICE_LEVEL_MODERATE,live_music_venue,0
+Mable's Smokehouse & Banquet Hall,None,4.4,1916.0,PRICE_LEVEL_MODERATE,barbecue_restaurant,0
+Barn Joo 35,None,4.4,1715.0,PRICE_LEVEL_MODERATE,korean_restaurant,0
+Han Bat,None,3.9,1051.0,PRICE_LEVEL_MODERATE,korean_restaurant,0
+Reichenbach Hall,None,4.6,7043.0,PRICE_LEVEL_MODERATE,german_restaurant,0
+Jerusalem Cafe,None,4.4,901.0,PRICE_LEVEL_MODERATE,restaurant,0
+Ahimsa,None,4.5,1437.0,PRICE_LEVEL_MODERATE,indian_restaurant,0
+Bagel Boss,None,4.0,253.0,PRICE_LEVEL_MODERATE,bagel_shop,0
+Balthazar,None,4.4,7657.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+theBoil Prime,None,4.0,207.0,PRICE_LEVEL_EXPENSIVE,seafood_restaurant,0
+Friedman's,None,4.5,4447.0,PRICE_LEVEL_MODERATE,restaurant,0
+fresh&co,None,4.3,448.0,PRICE_LEVEL_MODERATE,restaurant,0
+Rule of Thirds,None,4.3,1616.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Amami,None,4.5,437.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Naked Dog,None,4.6,672.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Peaches Grand,None,4.3,1307.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Locanda Vini & Olii,None,4.5,792.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Calexico,None,4.3,1176.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Mezcal's,None,4.0,605.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Chinese Musician,None,3.8,253.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+Forma Pasta Factory,None,4.6,1934.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Five Leaves,None,4.3,2592.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Parker & Quinn,None,4.6,3015.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+The Best Sichuan 一品成都39,None,4.7,3352.0,PRICE_LEVEL_MODERATE,meal_delivery,0
+Calle Dao,None,4.4,1410.0,PRICE_LEVEL_MODERATE,restaurant,0
+Okonomi,None,4.5,1363.0,PRICE_LEVEL_EXPENSIVE,japanese_restaurant,0
+Mama Pho,None,4.1,896.0,PRICE_LEVEL_INEXPENSIVE,vietnamese_restaurant,0
+Keg & Lantern Greenpoint,None,4.4,722.0,PRICE_LEVEL_MODERATE,brewpub,0
+Breeze,None,4.8,474.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+Chuko,None,4.3,1106.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+OMAR'S INDIAN FINE CUISINE,None,4.6,577.0,PRICE_LEVEL_MODERATE,indian_restaurant,0
+Agra Taj Mahal,None,4.1,511.0,PRICE_LEVEL_MODERATE,indian_restaurant,0
+Enerugi Ramen,None,4.7,411.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+Dig Inn,None,4.3,730.0,PRICE_LEVEL_INEXPENSIVE,american_restaurant,0
+The Bar Downstairs & Kitchen,None,4.4,464.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+Pera Mediterranean Brasserie,None,4.2,834.0,PRICE_LEVEL_EXPENSIVE,mediterranean_restaurant,0
+Cipriani Dolci,None,4.2,810.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+Tsushima,None,4.2,471.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Fandi Mata,None,4.7,4385.0,PRICE_LEVEL_MODERATE,restaurant,0
+Mesa Coyoacan,None,4.5,945.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Hunt & Fish Club,None,4.4,1044.0,PRICE_LEVEL_EXPENSIVE,steak_house,0
+Desy's Clam,None,4.4,373.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+The Perfect Pint,None,4.3,1572.0,PRICE_LEVEL_MODERATE,irish_restaurant,0
+Sparks Steak House,None,4.5,2535.0,PRICE_LEVEL_VERY_EXPENSIVE,steak_house,0
+Sweet Science,None,4.2,1453.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Warique Garden,None,4.7,373.0,PRICE_LEVEL_MODERATE,peruvian_restaurant,0
+The Brooklyn Tree,None,4.5,518.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Yumpling,None,4.7,1058.0,PRICE_LEVEL_INEXPENSIVE,taiwanese_restaurant,0
+Takumen,None,4.4,856.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+Brooklyn Chop House Steakhouse Times Square,None,4.1,1261.0,PRICE_LEVEL_VERY_EXPENSIVE,steak_house,0
+Valla Table,None,4.9,5133.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Añejo,None,4.4,1801.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Café Henri,None,4.4,1114.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Tuk Tuk,None,4.4,818.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Tenichi Ramen,None,4.8,2146.0,PRICE_LEVEL_MODERATE,ramen_restaurant,0
+7th Ave Donuts & Diner,None,4.4,1334.0,PRICE_LEVEL_INEXPENSIVE,diner,0
+Limani,None,4.3,1254.0,PRICE_LEVEL_EXPENSIVE,mediterranean_restaurant,0
+5 Acres Restaurant,None,4.3,603.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Omar Mediterranean Cuisine,None,4.5,1029.0,PRICE_LEVEL_INEXPENSIVE,mediterranean_restaurant,0
+Kati Shop,None,4.8,390.0,PRICE_LEVEL_INEXPENSIVE,thai_restaurant,0
+FIELDTRIP,None,4.3,312.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Junior's Restaurant and Bakery,None,4.4,12818.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Din Tai Fung 鼎泰豐,None,4.3,2227.0,PRICE_LEVEL_MODERATE,taiwanese_restaurant,0
+Blend LIC,None,4.5,1844.0,PRICE_LEVEL_MODERATE,latin_american_restaurant,0
+THE BARONESS,None,4.4,1361.0,PRICE_LEVEL_MODERATE,bar_and_grill,0
+The Blue Dog Cookhouse & Bar,None,4.4,2924.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+IPPUDO Westside,None,4.5,5192.0,PRICE_LEVEL_MODERATE,restaurant,0
+Shane's Brooklyn,None,4.3,1316.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Eve's Lounge,None,4.4,912.0,PRICE_LEVEL_MODERATE,restaurant,0
+Kausa,None,4.5,1692.0,PRICE_LEVEL_MODERATE,peruvian_restaurant,0
+EZ Paella & Tapas,None,4.8,3278.0,PRICE_LEVEL_MODERATE,spanish_restaurant,0
+Baciccia,None,4.7,378.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Provini,None,4.6,423.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Papillon Bistro & Bar,None,3.9,1761.0,PRICE_LEVEL_MODERATE,bistro,0
+FIG & OLIVE | Fifth Avenue,None,4.3,1828.0,PRICE_LEVEL_EXPENSIVE,restaurant,0
+Fogo de Chão Brazilian Steakhouse,None,4.5,9910.0,PRICE_LEVEL_EXPENSIVE,brazilian_restaurant,0
+Il Gattopardo,None,4.5,819.0,PRICE_LEVEL_VERY_EXPENSIVE,italian_restaurant,0
+Empanada Mama Hell’s Kitchen,None,4.4,5667.0,PRICE_LEVEL_MODERATE,latin_american_restaurant,0
+Norma Hell's Kitchen,None,4.6,1225.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+The Polo Bar,None,4.4,1130.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,0
+Westville Hell's Kitchen,None,4.7,940.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Jerk House Caribbean Restaurant,None,4.8,1568.0,PRICE_LEVEL_MODERATE,restaurant,0
+Mike's Bistro,None,4.7,1084.0,PRICE_LEVEL_VERY_EXPENSIVE,bistro,0
+RAS Plant Based,None,4.8,1335.0,PRICE_LEVEL_MODERATE,vegan_restaurant,0
+Franklin Park,None,4.3,1614.0,PRICE_LEVEL_MODERATE,beer_garden,0
+Otis,None,4.8,1058.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Momo Sushi Shack,None,4.4,483.0,PRICE_LEVEL_MODERATE,sushi_restaurant,0
+Ital Kitchen,None,4.7,345.0,PRICE_LEVEL_MODERATE,vegetarian_restaurant,0
+Briscola Trattoria,None,4.7,324.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Lips Drag Queen Show Palace Restaurant & Bar,None,4.5,1578.0,PRICE_LEVEL_MODERATE,performing_arts_theater,0
+Bloom's Tavern,None,4.4,998.0,PRICE_LEVEL_MODERATE,bar_and_grill,0
+El Santo,None,4.4,536.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Amali NYC,None,4.3,563.0,PRICE_LEVEL_EXPENSIVE,mediterranean_restaurant,0
+TBar,None,4.4,393.0,PRICE_LEVEL_EXPENSIVE,american_restaurant,0
+Peaches HotHouse,None,4.4,1994.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+WARUDE,None,4.6,725.0,PRICE_LEVEL_MODERATE,asian_fusion_restaurant,0
+Sea Salt NYC,None,4.7,1093.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Moti Mahal Delux,None,4.2,801.0,PRICE_LEVEL_MODERATE,indian_restaurant,0
+Gulp,None,4.9,2893.0,PRICE_LEVEL_MODERATE,taiwanese_restaurant,0
+Levante,None,4.3,954.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Lincoln Ristorante,None,4.3,525.0,PRICE_LEVEL_VERY_EXPENSIVE,italian_restaurant,0
+Armani/Ristorante,None,4.5,444.0,PRICE_LEVEL_VERY_EXPENSIVE,restaurant,0
+Old John's Luncheonette,None,4.4,1537.0,PRICE_LEVEL_MODERATE,diner,0
+Noi Due Carne,None,4.8,1167.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Peng's Noodle Folk,None,4.7,732.0,PRICE_LEVEL_INEXPENSIVE,ramen_restaurant,0
+Brasserie Cognac Upper East Side,None,4.4,555.0,PRICE_LEVEL_EXPENSIVE,french_restaurant,0
+Sea Wolf Brooklyn,None,4.3,2461.0,PRICE_LEVEL_MODERATE,seafood_restaurant,0
+La Cantine,None,4.6,425.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Bonafini Italian Restaurant,None,4.5,1080.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Jauja Mexican Kitchen,None,4.5,220.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Bombay Chowk,None,4.7,1745.0,PRICE_LEVEL_MODERATE,indian_restaurant,0
+La Esquina,None,4.1,647.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Up Thai,None,4.8,7892.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+THEP Thai Restaurant,None,4.7,6348.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Dallas BBQ,None,4.2,3620.0,PRICE_LEVEL_MODERATE,barbecue_restaurant,0
+EJ's Luncheonette,None,4.2,1334.0,PRICE_LEVEL_MODERATE,diner,0
+Abe's Pagoda Bar,None,4.5,592.0,PRICE_LEVEL_MODERATE,bar_and_grill,0
+Sushi Yasaka,None,4.6,1973.0,PRICE_LEVEL_MODERATE,sushi_restaurant,0
+Gray's Papaya,None,4.2,6418.0,PRICE_LEVEL_INEXPENSIVE,hot_dog_restaurant,0
+Sable's Smoked Fish,None,4.4,451.0,PRICE_LEVEL_EXPENSIVE,bagel_shop,0
+Tabata Ramen,None,4.4,1521.0,PRICE_LEVEL_INEXPENSIVE,japanese_restaurant,0
+Salumeria Rosi,None,4.5,1023.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+La Pecora Bianca UWS,None,4.8,2942.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Pappardella,None,4.3,1609.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Tacombi,None,4.3,1354.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Souk Al Shater,None,4.7,727.0,PRICE_LEVEL_INEXPENSIVE,lebanese_restaurant,0
+La Pecora Bianca UES,None,4.8,2562.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Luke's Lobster Upper East Side,None,4.4,871.0,PRICE_LEVEL_MODERATE,seafood_restaurant,0
+Mango Mango Dessert - Sunset Park,None,4.5,955.0,PRICE_LEVEL_MODERATE,dessert_shop,0
+Meijin,None,4.7,2223.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Sonora Restaurant & Bar,None,4.3,720.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Café Sabarsky,None,4.3,1248.0,PRICE_LEVEL_EXPENSIVE,austrian_restaurant,0
+Sistina,None,4.3,586.0,PRICE_LEVEL_EXPENSIVE,italian_restaurant,0
+French Roast,None,4.7,4107.0,PRICE_LEVEL_MODERATE,french_restaurant,0
+Celeste,None,4.8,3739.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Julia's,None,4.7,528.0,PRICE_LEVEL_MODERATE,restaurant,0
+Park Asia,None,4.1,1199.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+Bamboo Garden,None,4.0,579.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+Tasty's Diner,None,4.2,856.0,PRICE_LEVEL_MODERATE,diner,0
+Carmine's - Upper West Side,None,4.4,7041.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Bodrum,None,4.4,1036.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Salty Dog,None,4.4,1259.0,PRICE_LEVEL_MODERATE,bar_and_grill,0
+Lamoza Bar & Restaurant,None,4.5,273.0,PRICE_LEVEL_MODERATE,hookah_bar,0
+Nonnas of the World Community,None,4.7,1590.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Nepali Bhanchha Ghar,None,3.9,1156.0,PRICE_LEVEL_INEXPENSIVE,restaurant,0
+Merit Kabab Palace,None,3.9,935.0,PRICE_LEVEL_INEXPENSIVE,bangladeshi_restaurant,0
+Ayada,None,4.4,1650.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Spicy Shallot,None,4.3,1446.0,PRICE_LEVEL_MODERATE,thai_restaurant,0
+Verdello NYC,None,4.7,542.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+The Calaveras NYC,None,4.6,565.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+TRU Astoria,None,4.3,1150.0,PRICE_LEVEL_MODERATE,mediterranean_restaurant,0
+Queen’s Room,None,4.5,840.0,PRICE_LEVEL_MODERATE,bistro,0
+Row House,None,4.2,1678.0,PRICE_LEVEL_MODERATE,american_restaurant,0
+Silvana,None,4.4,1522.0,PRICE_LEVEL_MODERATE,middle_eastern_restaurant,0
+La Fusta,None,4.4,969.0,PRICE_LEVEL_MODERATE,argentinian_restaurant,0
+Settepani Restaurant,None,4.3,811.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Il Caffe Latte,None,4.4,752.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Samurai Sushi,None,4.2,244.0,PRICE_LEVEL_MODERATE,sushi_restaurant,0
+Picante,None,4.0,709.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+3J,None,4.0,248.0,PRICE_LEVEL_MODERATE,latin_american_restaurant,0
+Yoi Sushi,None,4.6,1427.0,PRICE_LEVEL_MODERATE,japanese_restaurant,0
+Mountain House Flushing 川山甲,None,4.6,2430.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+JiBeiChuan Noodles(Flushing)季北川花胶汤米粉 (法拉盛店),None,4.7,806.0,PRICE_LEVEL_MODERATE,chinese_noodle_restaurant,0
+大喜川菜馆 DAXI Sichuan cuisine,None,4.4,943.0,PRICE_LEVEL_MODERATE,chinese_restaurant,0
+Myung San,None,4.0,422.0,PRICE_LEVEL_MODERATE,korean_restaurant,0
+Arirang,None,3.8,413.0,PRICE_LEVEL_MODERATE,korean_restaurant,0
+Ajo y Orégano,None,4.4,2213.0,PRICE_LEVEL_MODERATE,restaurant,0
+Dominick's,None,4.5,968.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Antonio's Trattoria,None,4.6,1592.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Moise's Restaurant,None,4.5,741.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Inca Paisa Restaurant Bayside,None,4.5,1460.0,PRICE_LEVEL_MODERATE,restaurant,0
+Riviera Ristorante,None,4.6,683.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Addeo’s of the Bronx,None,4.4,569.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
+Healthy Fresh,None,4.4,352.0,PRICE_LEVEL_MODERATE,restaurant,0
+Cocina Chente,None,4.4,721.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Colombian House,None,4.7,3276.0,PRICE_LEVEL_MODERATE,colombian_restaurant,0
+Rebecca's Café,None,4.6,210.0,PRICE_LEVEL_MODERATE,mexican_restaurant,0
+Spadaro Roman Kitchen,None,4.6,337.0,PRICE_LEVEL_MODERATE,italian_restaurant,0
